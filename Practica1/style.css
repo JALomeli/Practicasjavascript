@@ -1,0 +1,33 @@
+label{
+    color: azure;
+    padding:1%;
+    margin: 10px;
+}
+.label{
+    padding: 1%;
+}
+.title{
+    background: gray;
+}
+.formulario{
+    width: 500px;
+    background-color: #2d572c;
+    padding : 3%;
+    border-radius: 10px;
+}
+.centrar{
+    text-align: center;
+    width: 100%;
+}
+button{
+
+    background-color: #070707;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px
+}
